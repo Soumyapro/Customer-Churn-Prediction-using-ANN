@@ -1,12 +1,6 @@
 # 🏦 Customer Churn Prediction
 ### Deep Learning model to predict bank customer churn using an Artificial Neural Network (ANN)
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-ANN-D00000?style=flat&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Preprocessing-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
-
 ---
 
 ## 📌 Problem Statement
